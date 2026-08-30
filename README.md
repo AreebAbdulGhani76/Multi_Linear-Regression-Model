@@ -241,7 +241,7 @@ Housing dataset containing:
 
 ### Streamlit Cloud (Recommended)
 1. Push code to GitHub
-2. Visit [share.streamlit.io]([https://share.streamlit.io](http://localhost:8501/))
+2. Visit ([http://localhost:8501/])
 3. Connect GitHub repo → Deploy in seconds
 4. App is live at public URL
 
